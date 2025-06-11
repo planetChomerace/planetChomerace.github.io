@@ -198,7 +198,7 @@ function populateTableEntry(trainee) {
       <span class="name"><strong>${trainee.name_romanized}</strong></span>
       <span class="hangul">(${trainee.name_hangul})</span>
       <span class="nationalityandyear">${trainee.nationality.toUpperCase()} •
-      ${trainee.birthyear}</span>
+      ${trainee.birthyear} • ${trainee.grade}</span>
     </div>
   </div>`;
   return tableEntry;
