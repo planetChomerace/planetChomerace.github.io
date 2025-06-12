@@ -1,56 +1,154 @@
-Andrew,앤드류,-,Bill,America,K,2003,,1
-Aoshi,아오시,-,Big Planet Made,Japan,K,2006,,2
-Arctic,아틱,-,IST,Thailand,K,2008,,3
-Baek Jaehyeon,백제현,-,Individual Trainee,Korea,K,2007,,4
-Bang Junhyuk,방준혁,-,Top Media,Korea,K,2004,,5
-Bang Suhwan,방수환,-,WITHUS,Korea,K,2004,,6
-Bian Shiyu,비엔스위,卞士宇,Top Class,China,C,2006,,7
-Cai Jinxin,차이진신,蔡锦昕,EE Media,China,C,2003,,8
-Chen Bowen,천보원,陈博文,Individual Trainee,China,C,2008,,9
-Chen Chaoyu,천차오위,陳昭宇,Individual Trainee,China,C,2005,,10
-Chen Jinxin,첸진신,陈金鑫,Individual Trainee,China,C,1998,,11
-Chen Kaiwen,천카이원,陈凯文,Chromosome,China,C,2005,,12
-Chen Lichi,천리치,陈立其,TEN,Taiwan,C,2006,,13
-Chen Zishuo,천즈슈어,陈梓烁,i.E.ONE,China,C,2003,,14
-Cho Myeongsu,조명수,-,Individual Trainee,Korea,K,2005,,15
-Choi Junseok,최준석,-,RBW,Korea,K,2007,,16
-Chris,크리스,-,WUZO,America,K,2002,,17
-Chrisen Yang,크리센 양,杨淇森,RYCE,China,C,2004,,18
-Chuei Liyu,최립우,崔立于,FNC,Taiwan,K,2004,,19
-Chung Sanghyeon,정상현,-,Wakeone,Korea,K,2007,,20
-Dang Honghai,당홍하이,邓鸿海,-,Vietnam,C,2003,,21
-Ham Hyunseo,함현서,-,nCH,Korea,K,2007,,22
-Han Harry June,한해리준,-,Brave,Korea,K,2004,,23
-Heo Jio,허지오,-,Star on,Korea,K,2007,,24
-Hsu Chingyu,쉬칭위,许謦宇,Wakeone,Taiwan,K,2009,,25
-Hwang Sunwoo,황선우,-,Wakeone,Korea,K,2009,,26
-Jang Haneum,장한음,-,ES NATION,Korea,K,2004,,27
-Jang Taeyoon,장태윤,-,iNKODE,Korea,K,2006,,28
-Jo Gyehyeon,조계현,-,Jellyfish,Korea,K,1999,,29
-Jeon Leejeong,전이정,-,CJes,Korea,K,2003,,30
-Jung Hyunjun,정현준,-,Nouer,Korea,K,2009,,31
-Justin,저스틴,-,Wakeone,New Zealand,K,2006,,32
-Kang Woojin,강우진,-,Individual Trainee,Korea,K,2007,,33
-Kenshiro,켄시로,健四郎,FNC,Japan,K,2004,,34
-Kim Daniel,김다니엘,-,Jellyfish,Korea,K,2009,,35
-Kim Donghyun A,김동현,-,Individual Trainee,Korea,K,2003,,36
-Kim Donghyun B,김동현,-,P Nation,Korea,K,2008,,37
-Kim Dongyun,김동윤,-,Woollim,Korea,K,2002,,38
-Kim Geonwoo,김건우,-,Individual Trainee,Korea,K,2003,,39
-Kim Hyeonseo,김현서,-,Jellyfish,Korea,K,2007,,40
-Kim Hyunbin,김현빈,-,Individual Trainee,Korea,K,2006,,41
-Kim Inhu,김인후,-,Big Planet Made,Korea,K,2005,,42
-Kim Jaehyun,김재현,-,Cube,Korea,K,2010,,43
-Kim Junmin,김준민,-,CJes Studio,Korea,K,2002,,44
-Kim Junseo,김준서,-,Oui,Korea,K,2001,,45
-Kim Minjun,김민준,-,Individual Trainee,Korea,K,2003,,46
-Kim Sihwan,김시환,-,IST,Korea,K,2005,,47
-Kim Taejo,김태조,-,Choco,Korea,K,2010,,48
-Kim Wonbin,김원빈,-,Individual Trainee,Korea,K,2006,,49
-Kim Youngjun,김영준,-,Jellyfish,Korea,K,2010,,50
-Kwon Gyuhyung,권규형,-,Individual Trainee,Korea,K,2006,,51
-Lee Dongheon,이동헌,-,Jellyfish,Korea,K,1995,,52
-Lee Hyeop,이협,-,Woollim,Korea,K,1999,,53
-Lee Leo,이리오,-,Grid,Australia,K,2002,,54
-Lee Sangwon,이상원,-,Grid,Korea,K,2003,,55
-Lee Seungbaek,이승백,-,Woolim,Korea,K,2010,,56
+Andrew,앤드류,-,Bill,America,K,2003,1
+Aoshi,아오시,あおし,BPM,Japan,K,2006,2
+Arctic,아틱,-,IST,Thailand,K,2008,3
+Baek Jaehyeon,백제현,-,Home Enter,Korea,K,2007,4
+Bang Junhyuk,방준혁,-,TOP Media,Korea,K,2004,5
+Bang Suhwan,방수환,-,Withus,Korea,K,2004,6
+Bian Shiyu,비엔스위,卞士宇,TOP CLASS,China,C,2006,7
+Cai Jinxin,차이진신,蔡锦昕,EE Media,China,C,2003,8
+Chen Bowen,천보웬,陈博文,Individual Trainee,China,C,2008,9
+Chen Chaoyu,천차오위,陳昭宇,Individual Trainee,Taiwan,C,2005,10
+Chen Jinxin,천진신,陈金鑫,Individual Trainee,China,C,1998,11
+Chen Kaiwen,천카이원,陈凯文,Chromosome,China,C,2005,12
+Chen Lichi,천리치,陈立其,TEN,Taiwan,C,2006,13
+Chen Zishuo,천즈슈어,陈梓烁,i.E.ONE,China,C,2003,14
+Cho Myeongsu,조명수,-,Individual Trainee,Korea,K,2005,15
+Choi Junseok,최준석,-,RBW,Korea,K,2007,16
+Chris Han,한크리스,-,WUZO,America,K,2002,17
+Chrisen Yang, 크리슨 양,杨淇森,RYCE,China,C,2004,18
+Chuei Li Yu,최립우,崔立于,FNC,Taiwan,K,2004,19
+Chung Sanghyeon,정상현,-,Wakeone,Korea,K,2007,20
+Dang Honghai,당홍하이,邓鸿海,Dongyo,Vietnam,C,2003,21
+Dong Jingkun,동징쿤,董靖坤,Dragon Team,China,C,2004,22
+Dong Ziqi,동쯔치,董子奇,TOP CLASS,China,C,2004,23
+Fan Zheyi,판저이,范哲逸,Individual Trainee,China,C,2006,24
+Guo Zhen,궈쩐,郭震,Giant,China,C,2002,25
+Ham Hyunseo,함현서,-,nCH,Korea,K,2007,26
+Han Harry June,한해리준,-,Brave,Korea,K,2004,27
+Han Ruize,한루이저,韩瑞泽,Individual Trainee,China,C,2000,28
+He Junjin,허준진,何俊锦,IE ONE,China,C,2005,29
+He Xinlong,허씬롱,贺鑫隆,NCC,China,C,2005,30
+He Zhong Xing,허중싱,仲星,Individual Trainee,China,C,2003,31
+Heo Jio,허지오,-,Star On,Korea,K,2007,32
+Hong Zhihan,홍쯔한,洪智函,Individual Trainee,China,C,2004,33
+Hong Zihhao,홍쯔하오,洪子皓,TEN,Taiwan,C,2005,34
+Hsu Ching Yu,쉬칭위,许謦宇,Wakeone,Taiwan,K,2009,35
+Hu Hanwen,후한원,胡瀚文,Individual Trainee,China,C,2000,36
+Huang Hsinyu,황신유,黄薪祐,TEN,Taiwan,C,2005,37
+Hwang Sunwoo,황선우,-,Wakeone,Korea,K,2009,38
+Jang Haneum,장한음,-,ES Nation,Korea,K,2004,39
+Jang Taeyoon,장태윤,-,Inkode,Korea,K,2006,40
+Jia Hanyu,지아한위,贾涵予,NCC,China,C,2004,41
+Jiang Fan,지앙판,姜帆,TOP CLASS,China,C,2005,42
+Jo Gyehyeon,조계현,-,Jellyfish,Korea,K,1999,43
+Jun Leejeong,전이정,-,CJes,Korea,K,2003,44
+Jung Hyunjun,정현준,-,Nouer,Korea,K,2009,45
+Justin,저스틴,-,Wakeone,New Zealand,K,2006,46
+Kang Woojin,강우진,-,Individual Trainee,Korea,K,2007,47
+Kenshiro,켄시로,健四郎,FNC,Japan,K,2004,48
+Kim Daniel,김다니엘,-,Jellyfish,Korea,K,2009,49
+Kim Donghyun A,김동현,-,Individual Trainee,Korea,K,2003,50
+Kim Donghyun B,김동현,-,P NATION,Korea,K,2008,51
+Kim Dongyun,김동윤,-,Woollim,Korea,K,2002,52
+Kim Gunwoo,김건우,-,Individual Trainee,Korea,K,2003,53
+Kim Hyunbin,김현빈,-,Individual Trainee,Korea,K,2006,54
+Kim Hyunseo,김현서,-,Jellyfish,Korea,K,2007,55
+Kim Inhu,김인후,-,BPM,Korea,K,2005,56
+Kim Jaehyun,김재현,-,Cube,Korea,K,2010,57
+Kim Junmin,김준민,-,CJes Studios,Korea,K,2002,58
+Kim Junseo,김준서,金俊抒,OUI,Korea,K,2001,59
+Kim Minjun,김민준,-,Individual Trainee,Korea,K,2003,60
+Kim Sihwan,김시환,-,IST,Korea,K,2005,61
+Kim Taejo,김태조,-,Choco,Korea,K,2010,62
+Kim Wonbin,김원빈,-,Individual Trainee,Korea,K,2006,63
+Kim Youngjun,김영준,-,Jellyfish,Korea,K,2010,64
+Ko Ming Chieh,커밍지에,柯茗傑,Wakeone,Taiwan,C,2007,65
+Krystian,크리스티안,王南钧,Individual Trainee,China,C,2000,66
+Kwon Gyuhyung,권규형,-,Individual Trainee,Korea,K,2006,67
+Lee Dongheon,이동헌,-,Jellyfish,Korea,K,1995,68
+Lee Hyeop,이협,-,Woollim,Korea,K,1999,69
+Lee Leo,이리오,-,GRID,Australia,K,2002,70
+Lee Sangwon,이상원,-,GRID,Korea,K,2003,71
+Lee Seungbaek,이승백,-,Woollim,Korea,K,2010,72
+Lee Wonwoo,이원우,-,Individual Trainee,Korea,K,2005,73
+Lee Yoonchan,이윤찬,-,GreatM,Korea,K,2005,74
+Li Xiaodi,리샤오디,李筱迪,Star Voyage Century,China,C,2000,75
+Li Zhengen,리정언,李政恩,Individual Trainee,China,C,2002,76
+Li Zihao,리즈하오,李梓豪,NCC,China,C,2004,77
+Lim Jack,임잭,-,NEEDSLAB,Australia,C,2006,78
+Lin Chingen,린칭언,林擎恩,TEN,Taiwan,C,2004,79
+Lin Xinrui,린신루이,林锌锐,Individual Trainee,China,C,2003,80
+Long Guohao,롱궈하오,龙国浩,Individual Trainee,China,C,2001,81
+Ma Tao,마타오,马韬,Liancheng,China,C,2002,82
+Masato,마사토,-,iNKODE,Japan,K,2003,83
+Moon Suhnbin,문선빈,-,Model Directors,Korea,K,2005,84
+Muhn Wonjun,문원준,-,CJes Studios,Korea,K,2005,85
+Na Yunseo,나윤서,-,Cube,Korea,K,2010,86
+Ngan Chau Yuet,안차우윗,颜秋越,Individual Trainee,Hong Kong,C,2002,87
+Nian Boheng,니안보행,年博恒,Bill,America,C,2006,88
+Noh Huijun,노회준,-,TOP Media,Korea,K,2003,89
+Oh Junho,오준호,-,Withus,Korea,K,2004,90
+Park Donggyu,박동규,-,IST,Korea,K,2005,91
+Park Jimin,박지민,-,ZERO-HI,Korea,K,2003,92
+Park Junil,박준일,-,INKODE,Korea,K,2004,93
+Park Junseong,박준성,-,Jellyfish,Korea,K,2005,94
+Park Nuri,박누리,-,GreatM,Korea,K,2008,95
+Peng Jinyu,펑진유,彭锦煜,Individual Trainee,China,C,2006,96
+Phoenix,피닉스,康迪特薛蒂萨克,TM,Thailand,C,2009,97
+Pun,빤,ปัน,Jellyfish ,Thailand,K,2006,98
+Qi Lin,치린,麒麟,ROS,China,C,2006,99
+Qiao Guanzhen,챠오관전,乔冠臻,Uni-icon,China,C,2002,100
+Reeonn,리온,-,Wakeone,Thailand,K,2007,101
+Rensho,렌쇼,-,IST,Japan,K,2007,102
+Ryan,라이언,-,WAYF,America,K,2006,103
+Sang Lin,상린,桑淋,Liancheng,China,C,2005,104
+Sen,센,渋谷仙,Inkode,Japan,C,2005,105
+Seo Won,서원,-,Individual Trainee,Korea,K,2000,106
+Shin Jaeha,신재하,-,Individual Trainee,Korea,K,2007,107
+Sho,쇼우,翔,nCH,Japan,K,2005,108
+Shoya,쇼야,-,Wakeone,Japan,K,2008,109
+Song Minjae,송민재,-,TOP Media,Korea,K,2003,110
+Sun Hanlin,쑨한린,孙涵霖,Individual Trainee,China,C,2004,111
+Sun Hengyu,쑨헝위,孙亨裕,Individual Trainee,China,C,2001,112
+Sun Jiayang,쑨지아양,孙佳洋,Hangzhou Time Flowing Culture,China,C,2006,113
+Taichi,타이치,稲垣太地,Bill,Japan,K,2005,114
+Taiga,타이가,藤牧 大雅,IX,Japan,C,2005,115
+Takenaka Yumeki,유메키,竹中夢生,Grigo,Japan,K,1999,116
+Tatsuki,타츠키,-,Wakeone,Japan,K,2009,117
+Teng Chia Chun,덩지아쥔,鄧佳駿,Individual Trainee,Taiwan,C,2002,118
+Thanatorn,타나톤,塔纳通,Withus,Thailand,K,2005,119
+Tomoya,토모야,-,Individual Trainee,Japan,K,2004,120
+Wang Canruo,왕찬루어,-,Individual Trainee,China,C,2000,121
+Wang Dongyi, 왕동이,王东熠,HEY+,China,C,2002,122
+Wang Shenglin,왕성린,王圣琳,Yuxiao,China,C,2003,123
+Wang Zhongzhi,왕종쯔,王忠智,JOY Media,China,C,2002,124
+Weng Weidong,웡웨이둥,翁伟栋,Individual Trainee,China,C,2002,125
+Wong Sikhei,왕식헤이,黃錫熙 ,YSGROUP,Hong Kong,C,2009,126
+Xie Binghua,시에빙화,谢秉桦,RND,China,C,2002,127
+Xie Jiahui,시에지아후이,谢家辉,Individual Trainee,China,C,2002,128
+Xie Yuxin,시에위신,解雨鑫,TOP CLASS,China,C,2005,129
+Xuan Hao,쉬안하오,宣淏,Individual Trainee,China,C,1995,130
+Xue Suren,쉬에수런,薛苏仁,Individual Trainee,Hong Kong,C,2004,131
+Yang Da Wit,양다윗,-,RBW,Korea,K,2008,132
+Yang Heuichan,양희찬,-,Brave,Korea,K,1999,133
+Yang Jiapeng,양지아펑,杨佳鹏,Individual Trainee,China,C,2000,134
+Yeom Yechan,염예찬,-,Choco,Korea,K,2008,135
+Yeung Yuk Him,영육힘,楊煜謙,Media Asia,Hong Kong,C,2002,136
+Yichen,이천,-,Wakeone,China,C,1998,137
+Yoo Kangmin,유강민,-,Jellyfish,Korea,K,2003,138
+Yoon Min,윤민,-,Howtohouse,Korea,K,2000,139
+Yu Kiwon,유기원,-,Individual Trainee,Korea,K,2006,140
+Yuan Wei,위안웨이,袁威,Individual Trainee,China,C,1998,141
+Yusen,유센,-,P Nation,America,K,2008,142
+Zeng Shangxuan,쩡상쉬안,曾上轩,Individual Trainee,China,C,2005,143
+Zhang Jiahao,장지아하오,张家豪,Nouer,China,C,2002,144
+Zhang Shiyi,장스이,张释艺,esee,China,C,2002,145
+Zhang Shunyu,장슌위,张舜禹,Dragon Team,China,C,2010,146
+Zhang Yihua,장이화,张艺华,TOP CLASS,China,C,2006,147
+Zhang Yuxi,장위시,张宇熙,Individual Trainee,China,C,2002,148
+Zhao Guangxu,자오광쉬,-,IX,China,C,2003,149
+Zheng Kun,정쿤,郑坤,Individual Trainee,China,C,2004,150
+Zheng Renyu,정런위,郑人予,RYCE,China,C,1996,151
+Zhou Anxin,조우안신,周安信,Nouer,China,C,2006,152
+Zhou Yanhe,조우옌허,周言赫,Liancheng,China,C,2002,153
+Zhou Zheng,조우정,周政,Star Voyage Century,China,C,1999,154
