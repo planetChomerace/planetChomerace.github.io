@@ -278,34 +278,34 @@ body {
 }
 /* Different entry borders */
 .k-rank-border {
-  border: 3px solid var(--k-rank);
+  border: 4px solid var(--k-rank);
 }
 .b-rank-border {
-  border: 3px solid var(--j-rank);
+  border: 4px solid var(--j-rank);
 }
 .c-rank-border {
-  border: 3px solid var(--c-rank);
+  border: 4px solid var(--c-rank);
 }
 .t-rank-border {
-  border: 3px solid var(--t-rank);
+  border: 4px solid var(--t-rank);
 }
 .u-rank-border {
-  border: 3px solid var(--u-rank);
+  border: 4px solid var(--u-rank);
 }
 .default-rank-border {
-  border: 3px solid var(--default-rank);
+  border: 4px solid var(--default-rank);
 }
 .no-rank-border {
   border: none;
 }
 .eliminated .table__entry-icon-border {
-  border: 3px solid var(--no-rank);
+  border: 4px solid var(--no-rank);
 }
 .eliminated .ranking__entry-icon-border {
-  border: 3px solid var(--no-rank);
+  border: 4px solid var(--no-rank);
 }
 .ranking__entry-icon-border.dragged-over { /* defines a border for when you drag over a trainee in ranking */
-  border: 3px solid var(--checked-green);
+  border: 4px solid var(--checked-green);
 }
 
 .table__entry-text {
