@@ -14,6 +14,8 @@
   --checked-green: #097231;
 
   /* ranking border colors */
+  --k-rank: #182166;
+  --c-rank: #ED3A4F;
   --default-rank: #000000;
   --no-rank: #000000;
 }
@@ -275,10 +277,10 @@ body {
   background-origin: content-box;
 }
 /* Different entry borders */
-.s-rank-border {
-  border: 5px solid var(--s-rank);
+.k-rank-border {
+  border: 5px solid var(--k-rank);
 }
-.j-rank-border {
+.b-rank-border {
   border: 5px solid var(--j-rank);
 }
 .c-rank-border {
@@ -400,8 +402,8 @@ body {
 .bg-no {
   background-color: var(--no-rank);
 }
-.bg-s {
-  background-color: var(--s-rank);
+.bg-k {
+  background-color: var(--k-rank);
 }
 .bg-j {
   background-color: var(--j-rank);
