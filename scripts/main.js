@@ -406,7 +406,7 @@ function lineupNumber(number) {
     10:[1,2,3,4],
     11:[1,2,3,5],
     12:[1,2,4,5],
-    24:[1,2,3,4,6,8]
+    18:[1,2,4,5,6]
   }
   const VALID = Object.hasOwn(rowsRankLists, number);
   if (VALID == true) {
@@ -449,7 +449,7 @@ var trainees = [];
 var filteredTrainees = [];
 // holds the ordered list of rankings that the user selects
 var ranking = newRanking();
-var rowNums = [1,3,4];
+var rowNums = [1,2,3];
 //window.addEventListener("load", function () {
   populateRanking();
   readFromCSV("./trainee_info.csv");
